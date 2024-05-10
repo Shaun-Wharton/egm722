@@ -1,0 +1,3 @@
+[submodule "my_project_2"]
+	path = my_project_2
+	url = https://github.com/Shaun-Wharton/my_project_2
